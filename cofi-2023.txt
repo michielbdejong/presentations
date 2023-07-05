@@ -1,0 +1,20 @@
+mesh credit = peer-to-peer credit. bilateral ledgers. non-transferable.
+mutual credit = pool
+multilateral netting -> bird's eye view of the network.
+eliminate imbalances to zero vs moving them to desired balance
+
+1. Alex - Sikoba, terminology
+2. tech challenges in mesh credit - me: facilitator
+ui challenges (Alex)
+trust vs fungibility - Kyle
+pathfinding - Michiel + https://join.bitspossessed.org/ / Circles UBI
+3. break
+4. Circle UBI
+5. Kyle
+
+Sikoba: blockchain for IOUs with clearing of circular debt
+MyCHIPS: federated
+Circles UBI: accept tokens from people you trust, commit to forwarding them
+
+technical autonomy
+integration with existing workflows, AR/AP, PoS/webshops, taxation, banking tools, and bookkeeping tools
